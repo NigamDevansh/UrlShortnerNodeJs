@@ -1,7 +1,7 @@
 
 # UrlShortner_withAuth
 
-This project the shortening of the url and authentication using JWT(JasonWebToken) which is stored in the form of cookies in the browser.
+This project the shortening of the url and authentication using JWT(JsonWebToken) which is stored in the form of cookies in the browser.
 
 
 
